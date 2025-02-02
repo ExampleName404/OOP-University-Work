@@ -1,3 +1,5 @@
+package Pr1;
+
 public class NewFormula {
     public static void main(String[] args) {
         // Вычисление формулы
